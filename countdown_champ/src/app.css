@@ -1,0 +1,35 @@
+.App {
+	text-align: center;
+	font-size: 35px;
+	margin-top: 20%;
+}
+
+.app-title {
+	font-size: 50px;
+}
+
+.clock-hours,
+.clock-days,
+.clock-minutes,
+.clock-seconds {
+	display: inline;
+	padding: 10px 12px;
+}
+
+.input-date {
+	padding: 10px;
+	margin: 30px auto;
+	display: block;
+}
+
+button {
+	outline: none;
+	display: block;
+	background-color: white;
+	border: 1px solid #ffd1c3;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	padding: 12px 20px;
+	width: 30%;
+	margin: 20px auto;
+}
